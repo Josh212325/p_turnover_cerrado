@@ -5,4 +5,4 @@ In the R script "phylo_turnover_azevedo_2021_JBI.R" you'll find how to produce T
 
 In the R script "Fig_2_GDM_maps_Azevedo_2021_JBI.R" you'll find how to produce Figure 2 for the clustering of phylogenetic turnover.
 
-The data needed for run all analyses are contained in the file cerrado_layers.rds (same file as in the Dryad repository).
+The data needed for running all analyses are contained in the file cerrado_layers.rds (same file as in the Dryad repository).
