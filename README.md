@@ -6,3 +6,5 @@ In the R script "phylo_turnover_azevedo_2021_JBI.R" you'll find how to produce T
 In the R script "Fig_2_GDM_maps_Azevedo_2021_JBI.R" you'll find how to produce Figure 2 for the clustering of phylogenetic turnover.
 
 The data needed for running all analyses are contained in the file cerrado_layers.rds (same file as in the Dryad repository).
+
+We added in 2025 the presence absence matrices for reptiles, anfibians and the respective subsets of endemics. The grid number (column names) of each matrix is corresponding to the grid for each group that is available in the cerrado_layers.rds file.
